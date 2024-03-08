@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sami Ahmad</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
-<img  src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+<img   align="center" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami-ahmad-1&label=Profile%20views&color=0e75b6&style=flat" alt="sami-ahmad-1" /> </p>
 
@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami-ahmad-1&show_icons=true&locale=en&layout=compact" alt="sami-ahmad-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-ahmad-1&show_icons=true&locale=en" alt="sami-ahmad-1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-ahmad-1&" alt="sami-ahmad-1" /></p>
