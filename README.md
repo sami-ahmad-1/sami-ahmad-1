@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sami Ahmad<br>A Passionate Frontend Developer from India<br>- 🌱 I’m currently Working on  **React JS, Next.js, and Advanced JavaScript Concepts**<br>- 💬 Ask me about **React, Performance Optimization, and Frontend Development**<br>- 📫 How to reach me: **samiahmad.0051@gmail.com**
+Hi 👋, I'm Sami Ahmad<br>A Passionate Frontend Developer from India<br>- 🌱 I’m currently Working on  **React JS, Next.js, and Advanced JavaScript Concepts**<br>- 💬 Ask me about **React, Performance Optimization, and Frontend Development**<br>- 📫 How to reach me: **samiahmad.code@gmail.com** or **+919142629077**
 
 
 ## 🌐 Socials:
